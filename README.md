@@ -1,3 +1,7 @@
+# Installation
+
+[https://chrome.google.com/webstore/detail/lotrofr-raid-planner-goog/ijkbikplgkkmngeblmlbkhdemflghkbm?hl=fr](https://chrome.google.com/webstore/detail/lotrofr-raid-planner-goog/ijkbikplgkkmngeblmlbkhdemflghkbm?hl=fr)
+
 # Installation manuelle
 
 - Télécharger le zip de l'extension [https://github.com/mydnic/lotro-fr-google-calendar-sync/archive/master.zip](https://github.com/mydnic/lotro-fr-google-calendar-sync/archive/master.zip)
