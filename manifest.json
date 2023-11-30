@@ -1,6 +1,6 @@
 {
     "name": "Lotro.fr Raid Planner - Google Calendar Sync",
-    "version": "1.1",
+    "version": "1.2",
     "description": "Chrome extension that syncs lotro.fr raid events to your google agenda calendar",
     "permissions": [
         "identity",
