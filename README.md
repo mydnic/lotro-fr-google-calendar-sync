@@ -19,3 +19,9 @@
 # Feedbacks
 
 Pour tout retour ou question envoyez moi un mail à mydnic@gmail.com
+
+# Privacy
+
+Cette extension requiert une connexion à votre compte google pour l'accès aux données Google Agenda.
+
+Aucune donnée n'est collectée.
