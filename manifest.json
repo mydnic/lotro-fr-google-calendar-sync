@@ -3,7 +3,6 @@
     "version": "1.0",
     "description": "Chrome extension that syncs lotro.fr raid events to your google agenda calendar",
     "permissions": [
-        "tabs",
         "identity",
         "storage",
         "*://*.lotro.fr/*"
