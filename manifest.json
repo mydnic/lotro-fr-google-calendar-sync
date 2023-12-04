@@ -4,7 +4,9 @@
     "description": "Chrome extension that syncs lotro.fr raid events to your google agenda calendar",
     "permissions": [
         "identity",
-        "storage",
+        "storage"
+    ],
+    "host_permissions": [
         "*://*.lotro.fr/*"
     ],
     "options_ui": {
@@ -12,11 +14,8 @@
         "chrome_style": true
     },
     "background": {
-        "scripts": [
-            "src/common.js",
-            "src/background.js"
-        ],
-        "persistent": false
+        "service_worker": "service_worker.js",
+        "type": "module"
     },
     "content_scripts": [
         {
@@ -43,5 +42,5 @@
             "https://www.googleapis.com/auth/calendar"
         ]
     },
-    "manifest_version": 2
+    "manifest_version": 3
 }
